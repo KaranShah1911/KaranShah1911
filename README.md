@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying in **Veermata Jijabai Technological Institute**
 
-- 🌱 I’m currently learning **I will not disclose 🤐🤐**
+- 🌱 I’m currently learning **(I will not disclose 🤐🤐)**
 
 - 💬 Ask me about **C++, Python, React.js**
 
