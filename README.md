@@ -22,4 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanshah1911&show_icons=true&locale=en" alt="karanshah1911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanshah1911&" alt="karanshah1911" /></p>
+
+## Open Source Contributions
+<h3> Attained Level 4 Badge in Hacktoberfest 2025 </h3>
+[![An image of @karanshah1911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanshah1911)](https://holopin.io/@karanshah1911)
