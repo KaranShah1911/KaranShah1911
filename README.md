@@ -25,4 +25,5 @@
 
 ## Open Source Contributions
 <h3> Attained Level 4 Badge in Hacktoberfest 2025 </h3>
+
 [![An image of @karanshah1911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanshah1911)](https://holopin.io/@karanshah1911)
